@@ -1,0 +1,20 @@
+{
+    "name": "Warehouse",
+    "alias": "warehouse",
+    "description": "Warehouse Module for managin items isuecard and more",
+    "keywords": [
+        "warehouse",
+        "items",
+        "issue card"
+    ],
+    "active": 1,
+    "order": 1,
+    "version": "0.5.1b",
+    "providers": [
+        "Modules\\Warehouse\\Providers\\WarehouseServiceProvider",
+        "Modules\\Warehouse\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": [],
+    "files": [],
+    "requires": []
+}
